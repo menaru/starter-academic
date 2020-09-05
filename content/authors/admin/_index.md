@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Meng (Meng) Ru
+title: Meng (Mena) Ru
 
 # Username (this should match the folder name)
 authors:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD student in Epidemiology (Cancer Epidemiology Track)
     institution: Johns Hopkins Bloomberg School of Public Health
-    year: Ongoing
+    year: 2024 (Expected)
   - course: MS in Biostatistics
     institution: Columbia University
     year: 2016
